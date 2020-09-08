@@ -1,0 +1,20 @@
+.Person {
+width: 60%;
+margin: 16px auto;
+border: 1px solid rgb(0, 0, 0);
+box-shadow: 2px 4px 3px rgb(0, 0, 0);
+padding: 16px;
+text-align: center;
+background: rgb(255, 3, 3);
+border-width: 3px;
+cursor: pointer;
+font-style: italic;
+font-style: bold;
+font-stretch: semi-expanded;
+text-shadow: 1px;
+align-self: start;
+box-shadow: 1px;
+grid-template: initial;
+}
+
+  
